@@ -5,10 +5,10 @@ xmlns:gap ="http://phonegap.com/ns/1.0"
 id ="com.phonegap.app1"
 version ="1.0.0">
 
-<name>app1_2018 Datos del Dispositivo </name>
+<name>app1-2018 Datos del Dispositivo </name>
 
 <description>
-aplicacion que muestra los Datos del Dispositivo
+Aplicacion que muestra los Datos del Dispositivo
 </description>
 
 <author href="https://build.phonegap.com" email="oscartla18@gmail.com">
